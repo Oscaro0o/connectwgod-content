@@ -1,0 +1,10 @@
+[
+  { "id": "gen1_1", "ref": "Genèse 1:1", "themes": ["faith", "wisdom"], "text": "Au commencement, Dieu créa les cieux et la terre." },
+  { "id": "deut6_4", "ref": "Deutéronome 6:4", "themes": ["faith"], "text": "Écoute, Israël ! L'Éternel, notre Dieu, l'Éternel est un." },
+  { "id": "lev19_18", "ref": "Lévitique 19:18", "themes": ["love"], "text": "Tu aimeras ton prochain comme toi-même." },
+  { "id": "deut31_6", "ref": "Deutéronome 31:6", "themes": ["strength"], "text": "Fortifiez-vous et ayez du courage ! Ne craignez point et ne soyez point effrayés." },
+  { "id": "num6_24", "ref": "Nombres 6:24", "themes": ["peace"], "text": "Que l'Éternel te bénisse et qu'il te garde !" },
+  { "id": "mic6_8", "ref": "Michée 6:8", "themes": ["wisdom", "love"], "text": "On t'a fait connaître, ô homme, ce qui est bien : pratiquer la justice, aimer la miséricorde, et marcher humblement avec ton Dieu." },
+  { "id": "josh1_8", "ref": "Josué 1:8", "themes": ["prosperity", "strength"], "text": "Que ce livre de la loi ne s'éloigne point de ta bouche ; médite-le jour et nuit, car c'est alors que tu auras du succès dans tes entreprises, c'est alors que tu réussiras." },
+  { "id": "ex34_6", "ref": "Exode 34:6", "themes": ["forgiveness", "love"], "text": "L'Éternel, l'Éternel, Dieu miséricordieux et compatissant, lent à la colère, riche en bonté et en fidélité." }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": "jn3_16", "ref": "Juan 3:16", "themes": ["love", "faith"], "text": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree no se pierda, mas tenga vida eterna." },
+  { "id": "ps23_1", "ref": "Salmo 23:1", "themes": ["comfort", "faith"], "text": "Jehová es mi pastor; nada me faltará." },
+  { "id": "phil4_13", "ref": "Filipenses 4:13", "themes": ["strength", "faith"], "text": "Todo lo puedo en Cristo que me fortalece." },
+  { "id": "prov3_5", "ref": "Proverbios 3:5", "themes": ["wisdom", "faith"], "text": "Fíate de Jehová de todo tu corazón, y no estribes en tu propia prudencia." },
+  { "id": "isa41_10", "ref": "Isaías 41:10", "themes": ["strength", "comfort"], "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios." },
+  { "id": "mt11_28", "ref": "Mateo 11:28", "themes": ["peace", "comfort"], "text": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar." },
+  { "id": "jer29_11", "ref": "Jeremías 29:11", "themes": ["prosperity", "hope"], "text": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis." },
+  { "id": "eph4_32", "ref": "Efesios 4:32", "themes": ["forgiveness", "love"], "text": "Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, como Dios también os perdonó a vosotros en Cristo." }
+]

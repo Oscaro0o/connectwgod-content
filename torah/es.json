@@ -1,0 +1,10 @@
+[
+  { "id": "gen1_1", "ref": "Génesis 1:1", "themes": ["faith", "wisdom"], "text": "En el principio creó Dios los cielos y la tierra." },
+  { "id": "deut6_4", "ref": "Deuteronomio 6:4", "themes": ["faith"], "text": "Oye, Israel: Jehová nuestro Dios, Jehová uno es." },
+  { "id": "lev19_18", "ref": "Levítico 19:18", "themes": ["love"], "text": "Amarás a tu prójimo como a ti mismo." },
+  { "id": "deut31_6", "ref": "Deuteronomio 31:6", "themes": ["strength"], "text": "Esforzaos y cobrad ánimo; no temáis ni tengáis miedo de ellos." },
+  { "id": "num6_24", "ref": "Números 6:24", "themes": ["peace"], "text": "Jehová te bendiga, y te guarde." },
+  { "id": "mic6_8", "ref": "Miqueas 6:8", "themes": ["wisdom", "love"], "text": "Oh hombre, él te ha declarado lo que es bueno: hacer justicia, y amar misericordia, y humillarte ante tu Dios." },
+  { "id": "josh1_8", "ref": "Josué 1:8", "themes": ["prosperity", "strength"], "text": "Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, porque entonces harás prosperar tu camino, y todo te saldrá bien." },
+  { "id": "ex34_6", "ref": "Éxodo 34:6", "themes": ["forgiveness", "love"], "text": "¡Jehová! ¡Jehová! fuerte, misericordioso y piadoso; tardo para la ira, y grande en misericordia y verdad." }
+]

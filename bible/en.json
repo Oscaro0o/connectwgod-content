@@ -1,0 +1,10 @@
+[
+  { "id": "jn3_16", "ref": "John 3:16", "themes": ["love", "faith"], "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." },
+  { "id": "ps23_1", "ref": "Psalm 23:1", "themes": ["comfort", "faith"], "text": "The LORD is my shepherd; I shall not want." },
+  { "id": "phil4_13", "ref": "Philippians 4:13", "themes": ["strength", "faith"], "text": "I can do all things through Christ which strengtheneth me." },
+  { "id": "prov3_5", "ref": "Proverbs 3:5", "themes": ["wisdom", "faith"], "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding." },
+  { "id": "isa41_10", "ref": "Isaiah 41:10", "themes": ["strength", "comfort"], "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God." },
+  { "id": "mt11_28", "ref": "Matthew 11:28", "themes": ["peace", "comfort"], "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest." },
+  { "id": "jer29_11", "ref": "Jeremiah 29:11", "themes": ["prosperity", "hope"], "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end." },
+  { "id": "eph4_32", "ref": "Ephesians 4:32", "themes": ["forgiveness", "love"], "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you." }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": "gen1_1", "ref": "Genesis 1:1", "themes": ["faith", "wisdom"], "text": "In the beginning God created the heaven and the earth." },
+  { "id": "deut6_4", "ref": "Deuteronomy 6:4", "themes": ["faith"], "text": "Hear, O Israel: The LORD our God is one LORD." },
+  { "id": "lev19_18", "ref": "Leviticus 19:18", "themes": ["love"], "text": "Thou shalt love thy neighbour as thyself." },
+  { "id": "deut31_6", "ref": "Deuteronomy 31:6", "themes": ["strength"], "text": "Be strong and of a good courage, fear not, nor be afraid of them." },
+  { "id": "num6_24", "ref": "Numbers 6:24", "themes": ["peace"], "text": "The LORD bless thee, and keep thee." },
+  { "id": "mic6_8", "ref": "Micah 6:8", "themes": ["wisdom", "love"], "text": "He hath shewed thee, O man, what is good: to do justly, and to love mercy, and to walk humbly with thy God." },
+  { "id": "josh1_8", "ref": "Joshua 1:8", "themes": ["prosperity", "strength"], "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, for then thou shalt make thy way prosperous, and then thou shalt have good success." },
+  { "id": "ex34_6", "ref": "Exodus 34:6", "themes": ["forgiveness", "love"], "text": "The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth." }
+]

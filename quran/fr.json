@@ -1,0 +1,10 @@
+[
+  { "id": "fatiha1_5", "ref": "Al-Fatiha 1:5", "themes": ["faith"], "text": "C'est Toi que nous adorons, et c'est Toi dont nous implorons secours." },
+  { "id": "baqara2_286", "ref": "Al-Baqara 2:286", "themes": ["strength", "hope"], "text": "Allah n'impose à aucune âme une charge supérieure à sa capacité." },
+  { "id": "inshirah94_6", "ref": "Ash-Sharh 94:6", "themes": ["hope", "comfort"], "text": "À côté de la difficulté est, certes, une facilité." },
+  { "id": "baqara2_152", "ref": "Al-Baqara 2:152", "themes": ["gratitude", "faith"], "text": "Souvenez-vous de Moi donc, Je Me souviendrai de vous." },
+  { "id": "rad13_28", "ref": "Ar-Ra'd 13:28", "themes": ["peace", "comfort"], "text": "N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ?" },
+  { "id": "talaq65_3", "ref": "At-Talaq 65:3", "themes": ["faith", "strength"], "text": "Et quiconque place sa confiance en Allah, Il lui suffit." },
+  { "id": "zumar39_53", "ref": "Az-Zumar 39:53", "themes": ["forgiveness", "hope"], "text": "Dis : Ô Mes serviteurs qui avez commis des excès à votre propre détriment, ne désespérez pas de la miséricorde d'Allah. Car Allah pardonne tous les péchés." },
+  { "id": "baqara2_261", "ref": "Al-Baqara 2:261", "themes": ["prosperity", "gratitude"], "text": "Ceux qui dépensent leurs biens dans le sentier d'Allah ressemblent à un grain qui produit sept épis, à cent grains l'épi." }
+]

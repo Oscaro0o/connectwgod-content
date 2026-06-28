@@ -1,0 +1,10 @@
+[
+  { "id": "fatiha1_5", "ref": "Al-Fatihah 1:5", "themes": ["faith"], "text": "Thee do we worship, and Thine aid we seek." },
+  { "id": "baqara2_286", "ref": "Al-Baqarah 2:286", "themes": ["strength", "hope"], "text": "On no soul doth Allah place a burden greater than it can bear." },
+  { "id": "inshirah94_6", "ref": "Ash-Sharh 94:6", "themes": ["hope", "comfort"], "text": "Verily, with every difficulty there is relief." },
+  { "id": "baqara2_152", "ref": "Al-Baqarah 2:152", "themes": ["gratitude", "faith"], "text": "Then do ye remember Me; I will remember you." },
+  { "id": "rad13_28", "ref": "Ar-Ra'd 13:28", "themes": ["peace", "comfort"], "text": "For without doubt in the remembrance of Allah do hearts find rest." },
+  { "id": "talaq65_3", "ref": "At-Talaq 65:3", "themes": ["faith", "strength"], "text": "And if anyone puts his trust in Allah, sufficient is Allah for him." },
+  { "id": "zumar39_53", "ref": "Az-Zumar 39:53", "themes": ["forgiveness", "hope"], "text": "Say: O my Servants who have transgressed against their souls! Despair not of the Mercy of Allah: for Allah forgives all sins." },
+  { "id": "baqara2_261", "ref": "Al-Baqarah 2:261", "themes": ["prosperity", "gratitude"], "text": "The parable of those who spend their wealth in the way of Allah is that of a grain which grows seven ears, in each ear a hundred grains." }
+]

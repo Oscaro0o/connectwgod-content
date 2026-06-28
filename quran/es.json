@@ -1,0 +1,10 @@
+[
+  { "id": "fatiha1_5", "ref": "Al-Fatiha 1:5", "themes": ["faith"], "text": "Solo a Ti adoramos y solo a Ti pedimos ayuda." },
+  { "id": "baqara2_286", "ref": "Al-Baqara 2:286", "themes": ["strength", "hope"], "text": "Dios no exige a nadie sino según su capacidad." },
+  { "id": "inshirah94_6", "ref": "Ash-Sharh 94:6", "themes": ["hope", "comfort"], "text": "Junto a la dificultad hay facilidad." },
+  { "id": "baqara2_152", "ref": "Al-Baqara 2:152", "themes": ["gratitude", "faith"], "text": "Recordadme, que Yo os recordaré." },
+  { "id": "rad13_28", "ref": "Ar-Ra'd 13:28", "themes": ["peace", "comfort"], "text": "¿Acaso no es con el recuerdo de Dios como se sosiegan los corazones?" },
+  { "id": "talaq65_3", "ref": "At-Talaq 65:3", "themes": ["faith", "strength"], "text": "A quien pone su confianza en Dios, Él le basta." },
+  { "id": "zumar39_53", "ref": "Az-Zumar 39:53", "themes": ["forgiveness", "hope"], "text": "Di: ¡Siervos míos que habéis cometido excesos en perjuicio propio! No desesperéis de la misericordia de Dios. Dios perdona todos los pecados." },
+  { "id": "baqara2_261", "ref": "Al-Baqara 2:261", "themes": ["prosperity", "gratitude"], "text": "Quienes gastan su hacienda por la causa de Dios son semejantes a un grano que produce siete espigas, cada una con cien granos." }
+]
